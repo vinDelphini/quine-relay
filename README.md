@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/mame/quine-relay/workflows/CI/badge.svg)](https://github.com/mame/quine-relay/actions?query=workflow%3ACI)
 
-## What this is
+## What this is?
 
 [QR.rb](https://github.com/mame/quine-relay/blob/master/QR.rb) is a Ruby program that generates
 a Rust program that generates
